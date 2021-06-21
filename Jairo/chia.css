@@ -1,0 +1,86 @@
+header {
+    margin-top: 30px;
+    margin-left:20px;
+
+}
+
+h1{
+    width:500px;
+    height:50px ;
+    background-color:#F0C6B6;
+    padding:8px;
+    border:2px solid;
+    border-color:#CF7F64;
+    font-family: Bahnschrift;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 170px;
+    padding-right: 100px;
+    display:flex;   
+}
+h3{
+    width:3px;
+    height:47px;
+    background-color:#A6A68C;
+    padding:8px;
+    padding-left:30px;
+    border:2px solid;
+    border-color:#A6A68C;
+    font-family: Bahnschrift;
+    margin-top: 1px;
+    margin-left: 1570px;
+    padding-right: 100px;   
+    
+}
+
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+}
+body{
+      width:auto;
+      height:auto;
+      background:#EEDDC9;
+      font-family:Bahnschrift;
+      
+}
+
+.card{
+      width:1690px;
+      height:590px;
+      background:#EBA394;
+      padding:15px;
+      margin-left:140px;
+      margin-top: 10px;
+      font-size: 34px;
+      
+}
+.card-content{ 
+    display:flex;
+}
+.card .card-img{
+    width:1000px;
+    height: 1000px;
+    margin-right: 10px;
+    font-size: 27;
+}
+.card .card-img img{
+    width:850px;
+    height:550px;
+    
+}
+
+p{
+    margin-left: 470px;
+    display: inline-block;
+    margin-top:100px;
+    background-color:#F0C6B6;
+    padding:8px;
+    border:2px solid;
+    border-color:#CF7F64;
+    font-family: Bahnschrift;
+    width:100px;
+    height:70px;
+    padding-left:25px;
+}
