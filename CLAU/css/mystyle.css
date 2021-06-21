@@ -1,0 +1,126 @@
+
+/*·----Generales----·*/
+*{
+    box-sizing: border-box;
+}
+body{
+background: grey;
+}
+/*·----formulaio----·*/
+.container
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face{
+    font-family: QuaverSerif;
+    src: url(fonts/QuaverSerif.otf);
+}
+
+
+    
+
+body {
+    background-color: rgb(219, 192, 202);
+    
+}
+
+
+header{
+    margin-top: 80px;
+  
+}
+
+
+
+nav{
+    margin-top: 33px;
+    
+    margin-right: 50px;
+    font-size: 15pt;
+    font-family: QuaverSerif;
+    text-align: right;
+}
+.logo{
+    margin-left: 30%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100px;
+  
+    text-align: left;
+    
+}
+
+
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+    
+    margin-right: 30px;
+   
+}
+
+a:hover{
+    color: rgb(185, 125, 35);
+    text-decoration: none;
+    
+}
+    
+.minav{
+    background-color: #864844;
+    margin-top: 0px;
+    width: 100%;
+}
+
+
+
+
+
+.main{
+
+margin-bottom: 35px;;   
+}
+
+
+
+.caja1{
+    
+    margin-top: 100px;
+    
+}
+
+
+.textocaja1{
+    
+    margin-top: 100px;
+    
+}
+
+
+
+h1{
+    color: white;
+    font-family: QuaverSerif;
+    text-align: left;
+    
+    
+}
+
+p{
+    color: white;
+    font-family: QuaverSerif;
+    text-align: left;
+    font-size: 15pt;
+    
+}
+
+
+img{
+    margin-top: 50px;
+    margin-bottom: 50px;}
